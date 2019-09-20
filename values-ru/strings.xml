@@ -52,8 +52,8 @@
     <string name="search">Поиск&#8230;</string>
     <string name="sort_by_name_asc">Сортировать по имени: по возрастанию</string>
     <string name="sort_by_name_desc">Сортировать по имени: по убыванию</string>
-    <string name="sort_by_level_asc">Сортировать по Уровеню: по возрастанию</string>
-    <string name="sort_by_level_desc">Сортировать по Уровеню: по убыванию</string>
+    <string name="sort_by_level_asc">Сортировать по уровню: по возрастанию</string>
+    <string name="sort_by_level_desc">Сортировать по уровню: по убыванию</string>
 
     <!-- !! INGAME TIMERS -->
     <string name="ingame_title">Время в игре</string>
@@ -182,7 +182,7 @@
     <string name="mob_mirumokruins">Существа леса Мирумога</string>
     <string name="mob_gyfinrhasia">Храм Гайфирансии</string>
     <string name="exp_rate">EXP:</string>
-    <string name="difficulty">Трудность:</string>
+    <string name="difficulty">Сложность:</string>
     <string name="mob_density">Плотность:</string>
 
     <!-- LATEST UPDATE -->
@@ -207,11 +207,11 @@
     <string name="bheg">трусливый бхег</string>
     <string name="mudster">Грязь</string>
     <string name="rednose">Красный нос</string>
-    <string name="offin">Офина</string>
+    <string name="offin">Офин</string>
     <string name="quint">Квинт</string>
     <string name="muraka">Мурака</string>
     <string name="vell">Велл</string>
-    <string name="garmoth">Garmoth</string>
+    <string name="garmoth">Камос</string>
 
     <!-- DO NOT TRANSLATE FOR THIS LANGUAGE -->
     <string name="error_bosstimer_nodata">Region does not have data!\n\nPlease submit spawn-times for this region to me@gimu.org.</string>
